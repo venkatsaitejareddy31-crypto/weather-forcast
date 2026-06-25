@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+pnpm-lock.yaml
+package-lock.json
+.DS_Store
